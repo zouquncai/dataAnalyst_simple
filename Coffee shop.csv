@@ -1,0 +1,114 @@
+﻿Gender,Age,Occupation,Annual Income,Visit Frequency,Loyalty card,Price Rating,Service Rating,Recommendation
+Female,22,Student,Very Low,Rarely,TRUE,3,4,TRUE
+Female,20,Student,Very Low,Rarely,TRUE,3,5,TRUE
+Male,27,Employed,Very Low,Monthly,TRUE,3,4,TRUE
+Female,22,Student,Very Low,Rarely,FALSE,1,3,FALSE
+Male,23,Student,Very Low,Monthly,FALSE,3,3,TRUE
+Female,24,Student,Very Low,Rarely,FALSE,3,5,TRUE
+Female,22,Student,Very Low,Rarely,TRUE,5,5,TRUE
+Male,22,Employed,Medium,Rarely,TRUE,2,3,TRUE
+Female,22,Student,Very Low,Rarely,TRUE,4,4,TRUE
+Male,29,Employed,Very Low,Monthly,FALSE,3,3,TRUE
+Female,25,Student,Very Low,Rarely,FALSE,1,3,TRUE
+Female,22,Student,Very Low,Rarely,FALSE,2,4,FALSE
+Female,21,Student,Very Low,Weekly,TRUE,3,3,TRUE
+Female,20,Student,Very Low,Rarely,TRUE,3,4,TRUE
+Female,24,Student,Very Low,Rarely,TRUE,2,5,FALSE
+Female,29,Employed,Very Low,Rarely,TRUE,1,4,FALSE
+Male,30,Employed,Medium,Monthly,TRUE,3,3,TRUE
+Male,28,Employed,Very Low,Rarely,TRUE,4,4,TRUE
+Male,23,Employed,Low,Weekly,TRUE,3,5,TRUE
+Female,28,Self-employed,Medium,Rarely,TRUE,4,4,TRUE
+Male,32,Employed,High,Rarely,TRUE,2,4,FALSE
+Female,25,Employed,Very Low,Rarely,FALSE,3,4,TRUE
+Male,25,Employed,Low,Rarely,FALSE,2,4,FALSE
+Female,22,Student,Very Low,Monthly,TRUE,4,4,TRUE
+Male,40,Self-employed,High,Rarely,FALSE,3,3,TRUE
+Male,34,Employed,Very High,Monthly,TRUE,3,5,TRUE
+Male,35,Employed,Very High,Rarely,FALSE,2,4,FALSE
+Male,29,Self-employed,Very Low,Monthly,FALSE,3,4,TRUE
+Male,43,Self-employed,Very High,Weekly,TRUE,5,4,TRUE
+Female,24,Employed,Medium,Rarely,TRUE,5,5,TRUE
+Female,25,Employed,Low,Monthly,TRUE,1,4,TRUE
+Female,26,Employed,Medium,Weekly,TRUE,3,3,TRUE
+Female,37,Employed,Low,Rarely,FALSE,3,5,TRUE
+Female,27,Employed,Low,Rarely,TRUE,2,4,FALSE
+Female,27,Employed,Low,Rarely,FALSE,4,4,TRUE
+Female,21,Student,Very Low,Rarely,FALSE,2,4,FALSE
+Female,27,Self-employed,Very Low,Rarely,FALSE,3,5,TRUE
+Male,18,Student,Very Low,Rarely,FALSE,2,3,TRUE
+Male,24,Employed,Very Low,Rarely,TRUE,4,4,TRUE
+Male,33,Employed,Medium,Rarely,TRUE,2,5,TRUE
+Male,25,Employed,Very Low,Monthly,TRUE,4,5,TRUE
+Female,25,Employed,Low,Weekly,TRUE,4,4,TRUE
+Female,22,Employed,Very Low,Monthly,FALSE,4,5,TRUE
+Female,39,Student,Medium,Rarely,TRUE,3,4,TRUE
+Female,26,Self-employed,Very Low,Rarely,FALSE,1,3,TRUE
+Female,26,Employed,Low,Rarely,FALSE,4,4,TRUE
+Male,18,Student,Very Low,Rarely,TRUE,3,3,TRUE
+Male,45,Employed,High,Rarely,TRUE,4,3,TRUE
+Female,19,Student,Very Low,Rarely,FALSE,3,4,FALSE
+Female,50,Housewife,Very Low,Monthly,TRUE,4,5,TRUE
+Female,17,Student,Very Low,Rarely,FALSE,3,3,TRUE
+Female,26,Employed,Low,Rarely,TRUE,3,5,TRUE
+Female,26,Employed,Low,Monthly,TRUE,3,3,TRUE
+Female,26,Employed,Very Low,Rarely,FALSE,4,3,TRUE
+Male,17,Student,Very Low,Monthly,TRUE,5,5,TRUE
+Male,19,Student,Very Low,Monthly,FALSE,3,3,TRUE
+Female,21,Student,Very Low,Rarely,FALSE,3,4,TRUE
+Male,20,Student,Very Low,Rarely,TRUE,1,3,TRUE
+Female,28,Employed,Very Low,Rarely,FALSE,4,3,TRUE
+Male,39,Student,Very Low,Rarely,FALSE,3,3,TRUE
+Male,29,Employed,Very Low,Rarely,TRUE,2,4,TRUE
+Female,27,Employed,Very Low,Rarely,FALSE,1,4,FALSE
+Female,24,Student,Very Low,Rarely,FALSE,3,4,FALSE
+Female,23,Self-employed,Low,Monthly,TRUE,3,4,TRUE
+Female,22,Employed,Very Low,Rarely,FALSE,1,4,FALSE
+Female,28,Employed,Low,Rarely,TRUE,3,3,TRUE
+Female,24,Employed,Very Low,Rarely,FALSE,3,5,TRUE
+Male,24,Employed,Low,Weekly,TRUE,1,3,TRUE
+Female,24,Employed,Very Low,Monthly,TRUE,2,4,TRUE
+Male,38,Employed,Very Low,Rarely,TRUE,2,5,TRUE
+Female,24,Housewife,Medium,Rarely,FALSE,2,5,TRUE
+Male,23,Employed,Low,Rarely,TRUE,3,4,TRUE
+Male,24,Employed,Very Low,Rarely,FALSE,2,4,TRUE
+Male,28,Employed,Medium,Monthly,TRUE,2,4,TRUE
+Female,24,Student,Very Low,Rarely,FALSE,1,2,FALSE
+Female,19,Student,Very Low,Rarely,FALSE,2,2,FALSE
+Female,24,Employed,Medium,Monthly,TRUE,2,3,FALSE
+Male,29,Self-employed,Medium,Rarely,TRUE,5,5,TRUE
+Male,33,Self-employed,Medium,Weekly,TRUE,4,4,TRUE
+Male,23,Employed,Low,Rarely,FALSE,2,4,FALSE
+Male,32,Self-employed,Very High,Monthly,TRUE,3,4,TRUE
+Male,24,Self-employed,Very High,Rarely,TRUE,3,2,TRUE
+Female,27,Employed,Very Low,Rarely,TRUE,3,3,TRUE
+Female,26,Employed,Low,Rarely,TRUE,4,4,TRUE
+Male,25,Self-employed,Low,Rarely,TRUE,5,5,TRUE
+Female,32,Employed,Medium,Weekly,TRUE,4,5,TRUE
+Female,34,Employed,Low,Monthly,TRUE,3,4,TRUE
+Female,22,Employed,Very Low,Rarely,TRUE,3,4,TRUE
+Male,21,Employed,Medium,Monthly,TRUE,1,3,TRUE
+Female,22,Employed,Low,Rarely,TRUE,3,3,TRUE
+Female,22,Self-employed,Very Low,Rarely,FALSE,3,4,TRUE
+Female,34,Employed,Very Low,Rarely,FALSE,3,3,TRUE
+Female,27,Employed,Low,Rarely,TRUE,3,4,TRUE
+Male,36,Employed,Very Low,Rarely,TRUE,2,4,TRUE
+Male,28,Student,Very Low,Rarely,FALSE,2,3,TRUE
+Male,29,Student,Very Low,Rarely,FALSE,4,2,TRUE
+Male,26,Self-employed,Medium,Daily,TRUE,2,3,TRUE
+Male,36,Employed,Low,Weekly,FALSE,5,3,TRUE
+Male,18,Student,Very Low,Rarely,FALSE,4,4,FALSE
+Male,62,Employed,Medium,Monthly,FALSE,3,4,TRUE
+Male,23,Student,Very Low,Rarely,FALSE,3,3,TRUE
+Male,23,Student,Very Low,Rarely,FALSE,3,3,FALSE
+Male,22,Student,Very Low,Rarely,FALSE,2,4,FALSE
+Female,24,Employed,Very Low,Monthly,FALSE,4,4,TRUE
+Female,18,Student,Very Low,Rarely,FALSE,4,4,TRUE
+Male,48,Self-employed,Low,Rarely,FALSE,2,3,FALSE
+Male,17,Student,Very Low,Daily,FALSE,5,5,TRUE
+Male,35,Student,Very Low,Monthly,FALSE,4,3,TRUE
+Male,47,Self-employed,Low,Monthly,TRUE,3,4,TRUE
+Male,23,Employed,Very Low,Monthly,TRUE,5,5,TRUE
+Male,21,Student,Very Low,Rarely,FALSE,2,3,FALSE
+Female,20,Employed,Very Low,Rarely,FALSE,4,4,TRUE
+Male,20,Employed,Medium,Rarely,FALSE,1,3,FALSE
